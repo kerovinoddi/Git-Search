@@ -6,7 +6,7 @@ This is a git search application that is supposed to allow a user to search for 
 
 #### Author
 
- Jeremic Arose.
+ Kerovin Oddi.
 
 ## Description
 
